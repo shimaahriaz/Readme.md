@@ -4,7 +4,7 @@ const life: ShimaaLife = {
   bio: "Love challenges and continuous development, developer, writer, and self-learner from Egypt, always striving to help others.",
   currentlyLearning: "I'm learning Node.js",
   askMeAbout: "Frontend Technologies",
-  reachMeAt: "shimaa.mahmoud.fe@gmail.com",
+  reachMeAt: "shimaa.mahmoud.fr@gmail.com",
 };
 ```
 
